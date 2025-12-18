@@ -12,6 +12,9 @@ Please pay attention to the file path.
 ## Framework
 ![demo image](images/Framework.png)
 
+## Pybullet Picking Demo
+<img src="images/Training Trajectory.gif" width="400">
+
 ## t-SNE of Parameter
 ![demo image](images/t-SNE.png)
 
